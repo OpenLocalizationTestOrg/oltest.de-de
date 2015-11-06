@@ -1,35 +1,35 @@
 {
   "LastProcessedCommit": "f4b3096e48dfeb999c383c55a46706a9a3b95935",
-  "LastTranslatedCommit": null,
+  "LastTranslatedCommit": "93544115f552897a617efe1e685ef55f66d3df2c",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
       "SourceFileCommit": "a5287759ee19d999486c30f70b7686d01ea0d695",
       "SourceFilePath": "e2e\\test-scenario-1.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
+      "TargetFileCommit": "93544115f552897a617efe1e685ef55f66d3df2c",
+      "TargetFilePath": "e2e\\test-scenario-1.md",
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.de-de.xlf",
       "HandoffFileCommit": "64de8ee3ea1f68ea1e6dd91985c78cc449f8e7ff",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-06T07:24:03.0865436Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.de-de\\master\\test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.de-de.xlf",
+      "HandbackFileCommit": "3c879e138e7d2cbb69af5ec2402836dc9daa36e7",
+      "HandbackDateTime": "2015-11-06T07:36:24.3900517Z",
+      "UpdatedDateTime": "2015-11-06T07:36:24.3900517Z",
       "DependencyFrom": null
     },
     "47609b0422629832c77370a4324229c7153ccdd7": {
       "SourceFileCommit": "f4b3096e48dfeb999c383c55a46706a9a3b95935",
       "SourceFilePath": "e2e\\osmond-test-1.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
+      "TargetFileCommit": "93544115f552897a617efe1e685ef55f66d3df2c",
+      "TargetFilePath": "e2e\\osmond-test-1.md",
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de.xlf",
       "HandoffFileCommit": "64de8ee3ea1f68ea1e6dd91985c78cc449f8e7ff",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-06T07:24:03.0865436Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest.de-de\\master\\osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de.xlf",
+      "HandbackFileCommit": "3c879e138e7d2cbb69af5ec2402836dc9daa36e7",
+      "HandbackDateTime": "2015-11-06T07:36:24.3900517Z",
+      "UpdatedDateTime": "2015-11-06T07:36:24.3900517Z",
       "DependencyFrom": null
     }
   }
