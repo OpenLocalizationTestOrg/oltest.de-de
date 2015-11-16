@@ -5,26 +5,26 @@
  -------- | ----- 
  Total Files | 2
 [ Handoff Files ](#handoff-list)| 0
-[ Partial Handback Files ](#partial-handback-list)| 0
-[ Full Handback Files ](#full-handback-list)| 1
+[ Partial Handback Files ](#partial-handback-list)| 1
+[ Full Handback Files ](#full-handback-list)| 0
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-list'></a> Handoff File List
 
 ## <a name='partial-handback-list'></a> Partial Handback File List
-
-## <a name='handback-list'></a> Full Handback File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTest/oltest/blob/a4f022d47e0aa84b63ebcad8984a312f63cd1520/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md) | FullHandedBack | [Details](#8983aa64952cd0492c6725b09edbb85a826bbd471)
+ [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTest/oltest/blob/f00b724e8f43722610ba6fee866dfd7d41391ebb/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md) | PartialHandedBack | [Details](#c640bf5a512700cf1dc2ea2ed13954e9d7f1ce4d1)
+
+## <a name='handback-list'></a> Full Handback File List
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/566899a4f666d9c3ebc35f987d6b839c5960fcd4/.localization-config) | Ignored | [Details](#048a0e657b81f2e30d1cbef1ba533f0de3ca11c40)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/f00b724e8f43722610ba6fee866dfd7d41391ebb/.localization-config) | Ignored | [Details](#048a0e657b81f2e30d1cbef1ba533f0de3ca11c40)
 
 ## Item Details
-##### <a name='048a0e657b81f2e30d1cbef1ba533f0de3ca11c40'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/566899a4f666d9c3ebc35f987d6b839c5960fcd4/.localization-config)
+##### <a name='048a0e657b81f2e30d1cbef1ba533f0de3ca11c40'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/f00b724e8f43722610ba6fee866dfd7d41391ebb/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -34,14 +34,17 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8983aa64952cd0492c6725b09edbb85a826bbd471'></a> Source: [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTest/oltest/blob/a4f022d47e0aa84b63ebcad8984a312f63cd1520/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md)
-* Status: FullHandedBack
-* Target File: [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/121619f16d82a0465340950a11308f1b42b24519/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md)
-* Handoff File: [b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/7970848cf8a4f96032b394c8879b2df2e65acf39/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/yanz/b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf)
-* Handoff Datetime: 2015-11-16 14:55:24
+##### <a name='c640bf5a512700cf1dc2ea2ed13954e9d7f1ce4d1'></a> Source: [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTest/oltest/blob/f00b724e8f43722610ba6fee866dfd7d41391ebb/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md)
+* Status: PartialHandedBack
+* Target File: 
+* Handoff File: [b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/49fa119764e6ea60fe84c2d3e2216508aa0d6a64/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/yanz/b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf)
+* Handoff Datetime: 2015-11-16 15:07:42
 * Handoff Reason: Include
-* Handback File: [b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/7dc4102776210bb9556889beeb5b2d4ccfbf7b76/ol-handback/OpenLocalizationTestOrg/oltest.de-de/yanz/b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf)
-* Handback Datetime: 2015-11-16 14:56:31
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [e2e\b0a8eacd-c174-43c1-88c5-d0676f761e91.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/121619f16d82a0465340950a11308f1b42b24519/e2e/b0a8eacd-c174-43c1-88c5-d0676f761e91.md)
+* Current Handback File: [b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/7dc4102776210bb9556889beeb5b2d4ccfbf7b76/ol-handback/OpenLocalizationTestOrg/oltest.de-de/yanz/b0a8eacd-c174-43c1-88c5-d0676f761e91.f439501c127e725cec55a0bca564d2c1440cbf18.de-de.xlf)
+* Current Handback Datetime: 2015-11-16 14:56:31
 * [Back to Top](#report-top)
 
 
