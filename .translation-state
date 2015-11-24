@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "43300641acb0eec35af49e25a3a586ac2ff730ff",
+  "LastProcessedCommit": "bedd8c9cb1e3af637d2943e89230b72927130287",
   "LastTranslatedCommit": "93544115f552897a617efe1e685ef55f66d3df2c",
   "Items": {
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
@@ -41,6 +41,21 @@
       "HandoffFileCommit": "c80f520a08a9355cafa3fe69ab3b16af2004470d",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-09T03:52:30.7130621Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "a048092ef32f7167a3cfd0ab2718722bb0f90072": {
+      "SourceFileCommit": "bedd8c9cb1e3af637d2943e89230b72927130287",
+      "SourceFilePath": "e2e\\testworkerrole.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.de-de.xlf",
+      "HandoffFileCommit": "fcb3826d74ca9ff70cd88e697fb367f0f5cd7c11",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-24T09:25:41.781142Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
