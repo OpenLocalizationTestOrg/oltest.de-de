@@ -1,25 +1,14 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\71e03f1d-12f2-45c1-b541-8ec661cb5303.md](https://github.com/OpenLocalizationTest/oltest/blob/8ddc5a7b1bb6d0e18055a9351cf929d25807155f/e2e/71e03f1d-12f2-45c1-b541-8ec661cb5303.md) | FullHandedBack | [Details](#cd27cb19ad341a708a88dda868e580694ce9ac1b1)
  [e2e\b4f43263-a35b-415e-b985-d3446bba308e.md](https://github.com/OpenLocalizationTest/oltest/blob/8ddc5a7b1bb6d0e18055a9351cf929d25807155f/e2e/b4f43263-a35b-415e-b985-d3446bba308e.md) | FullHandedBack | [Details](#f2066a5755724941e0d0402cf571fa2ec9dcbbf72)
 
 ## Item Details
-##### <a name='cd27cb19ad341a708a88dda868e580694ce9ac1b1'></a> Source: [e2e\71e03f1d-12f2-45c1-b541-8ec661cb5303.md](https://github.com/OpenLocalizationTest/oltest/blob/8ddc5a7b1bb6d0e18055a9351cf929d25807155f/e2e/71e03f1d-12f2-45c1-b541-8ec661cb5303.md)
-* Status: FullHandedBack
-* Target File: [e2e\71e03f1d-12f2-45c1-b541-8ec661cb5303.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/6857dd779a233841146aded77967acf978f783e6/e2e/71e03f1d-12f2-45c1-b541-8ec661cb5303.md)
-* Handoff File: [71e03f1d-12f2-45c1-b541-8ec661cb5303.5eefe90c3693677cad18a67e11ac110404c0e630.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/630ae27e781e01c19368baad53012022a6330eb6/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/yanz/71e03f1d-12f2-45c1-b541-8ec661cb5303.5eefe90c3693677cad18a67e11ac110404c0e630.de-de.xlf)
-* Handoff Datetime: 2015-11-26 08:21:05
-* Handoff Reason: Include
-* Handback File: [71e03f1d-12f2-45c1-b541-8ec661cb5303.5eefe90c3693677cad18a67e11ac110404c0e630.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/33fa547714395ce9c2f7f755551b2e1eccb7491c/ol-handback/OpenLocalizationTestOrg/oltest.de-de/yanz/71e03f1d-12f2-45c1-b541-8ec661cb5303.5eefe90c3693677cad18a67e11ac110404c0e630.de-de.xlf)
-* Handback Datetime: 2015-11-26 08:21:53
-* [Back to Top](#report-top)
-
 ##### <a name='f2066a5755724941e0d0402cf571fa2ec9dcbbf72'></a> Source: [e2e\b4f43263-a35b-415e-b985-d3446bba308e.md](https://github.com/OpenLocalizationTest/oltest/blob/8ddc5a7b1bb6d0e18055a9351cf929d25807155f/e2e/b4f43263-a35b-415e-b985-d3446bba308e.md)
 * Status: FullHandedBack
 * Target File: [e2e\b4f43263-a35b-415e-b985-d3446bba308e.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/6857dd779a233841146aded77967acf978f783e6/e2e/b4f43263-a35b-415e-b985-d3446bba308e.md)
