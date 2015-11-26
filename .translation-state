@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4da7f320ea5f195ac8e52d50b7cc734a90b723f8",
+  "LastProcessedCommit": "d7c6e724acc4015870e2b970b59c70d3f63f2445",
   "LastTranslatedCommit": "3ae3e79cf294089013d7e3ed642dda2366dc666d",
   "Items": {
     "a9ed7499b2a2f65e2fa0c49d649356f2da55871b": {
@@ -1418,6 +1418,25 @@
       "HandoffFileCommit": "3524da7673ca75c39b3523e141edcd7e7098713a",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-11-26T11:20:14.1381311Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\a.md"
+      ]
+    },
+    "c4b488c70a6d402312c57f1580f854105a6cae2f": {
+      "FileHash": "c4b488c70a6d402312c57f1580f854105a6cae2f",
+      "SourceFileCommit": "d7c6e724acc4015870e2b970b59c70d3f63f2445",
+      "SourceFilePath": "e2e\\a.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\yanz\\a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf",
+      "HandoffFileCommit": "c01f572e5cd6f3728b704fbb2ec566e78891898a",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-26T11:20:49.1894613Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
