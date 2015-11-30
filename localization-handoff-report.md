@@ -13,10 +13,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/fcb3826d74ca9ff70cd88e697fb367f0f5cd7c11/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.de-de.xlf)
-* Handback File: 
 * Handoff Datetime: 2015-11-24 09:25:41
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
