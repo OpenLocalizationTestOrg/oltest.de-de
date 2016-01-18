@@ -6,6 +6,8 @@
  Total Files | 7
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 5
+[ Archive Failed Files ](#archive-failed-list)| 0
+[ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -13,7 +15,7 @@
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
-## <a name='handoff-success-list'></a> Handoff Sucess File List
+## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\generate-warning&error.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/e2e/generate-warning&error.md) | HandedOffSuccess | [Details](#87028e0d2781426cb50ddc9e5bec0a61532ca6531)
@@ -21,6 +23,10 @@
  [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/e2e/test-scenario-1.md) | HandedOffSuccess | [Details](#e95ba46a6944d097bac52cb8257a64c4e422238b3)
  [e2e\testworkerrole.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/e2e/testworkerrole.md) | HandedOffSuccess | [Details](#a048092ef32f7167a3cfd0ab2718722bb0f900724)
  [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/283282ceed7d3fc21b4d24152a1104d5e303b42c/e2e/workerroletest.md) | HandedOffSuccess | [Details](#0230be5b6a99a72281fb408287844784080fb8645)
+
+## <a name='archive-failed-list'></a> Archive Failed File List
+
+## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -41,6 +47,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -51,6 +59,8 @@
 * Handoff File: [generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f92487d7a5b3e2419b6e7e2e9ce3096b365ff666/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.de-de.xlf)
 * Handoff Datetime: 2016-01-06 16:02:42
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -61,6 +71,8 @@
 * Handoff File: [osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f92487d7a5b3e2419b6e7e2e9ce3096b365ff666/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de.xlf)
 * Handoff Datetime: 2016-01-06 16:02:42
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -71,6 +83,8 @@
 * Handoff File: [test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f92487d7a5b3e2419b6e7e2e9ce3096b365ff666/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.de-de.xlf)
 * Handoff Datetime: 2016-01-06 16:02:42
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -81,6 +95,8 @@
 * Handoff File: [testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f92487d7a5b3e2419b6e7e2e9ce3096b365ff666/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/testworkerrole.b0a3cfcb60a89bf143be3196ab71d7fea2c0e324.de-de.xlf)
 * Handoff Datetime: 2016-01-06 16:02:42
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -91,6 +107,8 @@
 * Handoff File: [workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f92487d7a5b3e2419b6e7e2e9ce3096b365ff666/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.de-de.xlf)
 * Handoff Datetime: 2016-01-06 16:02:42
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -101,6 +119,8 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
