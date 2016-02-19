@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/3e270db8fe1a93168c64ab5fd0c0a7f513156d82/e2e/Ping.md) | HandedOffSuccess | [Details](#13b19dcc6b807f67388a90e6c66c3866a741f9a03)
+ [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/83f6dbcb5f4d37cc650f7844290eeb104b2d5b0c/e2e/Ping.md) | HandedOffSuccess | [Details](#fdeef1d3112c57aac624d242834b71a73e6168983)
 
 ## Item Details
-##### <a name='13b19dcc6b807f67388a90e6c66c3866a741f9a03'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/3e270db8fe1a93168c64ab5fd0c0a7f513156d82/e2e/Ping.md)
+##### <a name='fdeef1d3112c57aac624d242834b71a73e6168983'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/83f6dbcb5f4d37cc650f7844290eeb104b2d5b0c/e2e/Ping.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/868b0cc75a8e1932ed491e98bff6bdcdf1fe0bc2/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.de-de.xlf)
-* Handoff Datetime: 2016-02-01 07:07:20
+* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/d471902df36adc4a894c52ffaa79d07dcde71229/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.de-de.xlf)
+* Handoff Datetime: 2016-02-19 08:20:22
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
