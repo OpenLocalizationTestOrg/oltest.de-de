@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "1a779286b1a556ae8550df01050de21b0314ce6b",
+  "LastProcessedCommit": "86a5fbc9746429dcaa3db4644c977fec1f6842bd",
   "LastTranslatedCommit": null,
   "Items": {
     "87028e0d2781426cb50ddc9e5bec0a61532ca653": {
@@ -312,17 +312,17 @@
     },
     "63bea2e3b0c7cd2d1f98bc5b7a9951eafcfead0f": {
       "FileHash": "63bea2e3b0c7cd2d1f98bc5b7a9951eafcfead0f",
-      "SourceFileCommit": "1a779286b1a556ae8550df01050de21b0314ce6b",
+      "SourceFileCommit": "86a5fbc9746429dcaa3db4644c977fec1f6842bd",
       "SourceFilePath": "e2e\\test1\\test1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "e2e\\test1\\test1.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\ht-test\\test1.a04caccb4c9d67200f1be887cc6268d030f9cc12.de-de.xlf",
-      "HandoffFileCommit": "57c561762266714ffd68e0a2c48d1887801c51f6",
-      "HandoffDateTime": "2016-02-23T03:55:57.5280788Z",
-      "HandoffPriority": "ht-test",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\mt-test\\test1.a04caccb4c9d67200f1be887cc6268d030f9cc12.de-de.xlf",
+      "HandoffFileCommit": "06bd370b82b7cafc355d64c1763ca666f056356c",
+      "HandoffDateTime": "2016-02-23T04:05:15.2342331Z",
+      "HandoffPriority": "mt-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -340,17 +340,17 @@
     },
     "f0391904a77efece1359efeca01b5a9a89eeb8c8": {
       "FileHash": "f0391904a77efece1359efeca01b5a9a89eeb8c8",
-      "SourceFileCommit": "1a779286b1a556ae8550df01050de21b0314ce6b",
+      "SourceFileCommit": "86a5fbc9746429dcaa3db4644c977fec1f6842bd",
       "SourceFilePath": "e2e\\test2\\test2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
         "e2e\\test2\\test2.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\mt-test\\test2.dd770ae7d8d0bb37ce5217d18b66c19f089bd53d.de-de.xlf",
-      "HandoffFileCommit": "57c561762266714ffd68e0a2c48d1887801c51f6",
-      "HandoffDateTime": "2016-02-23T03:55:57.5280788Z",
-      "HandoffPriority": "mt-test",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\ht-test\\test2.dd770ae7d8d0bb37ce5217d18b66c19f089bd53d.de-de.xlf",
+      "HandoffFileCommit": "06bd370b82b7cafc355d64c1763ca666f056356c",
+      "HandoffDateTime": "2016-02-23T04:05:15.2342331Z",
+      "HandoffPriority": "ht-test",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
