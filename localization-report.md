@@ -3,8 +3,8 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 16
-[ Handoff Failed Files ](#handoff-failed-list)| 1
+ Total Files | 17
+[ Handoff Failed Files ](#handoff-failed-list)| 2
 [ Handoff Success Files ](#handoff-success-list)| 11
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
@@ -16,7 +16,8 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396)
+ [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396)
+ [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/TOC1.yml) | HandedOffFailed | [Details](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80616)
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
@@ -30,8 +31,8 @@
  [e2e\test2\test2.md](https://github.com/OpenLocalizationTest/oltest/blob/1e085430b3bcdd905c49a6a43ef0562633b64a05/e2e/test2/test2.md) | HandedOffSuccess | [Details](#f0391904a77efece1359efeca01b5a9a89eeb8c89)
  [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/e2e/test-scenario-1.md) | HandedOffSuccess | [Details](#e95ba46a6944d097bac52cb8257a64c4e422238b4)
  [e2e\testworkerrole.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/e2e/testworkerrole.md) | HandedOffSuccess | [Details](#a048092ef32f7167a3cfd0ab2718722bb0f9007210)
- [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/283282ceed7d3fc21b4d24152a1104d5e303b42c/e2e/workerroletest.md) | HandedOffSuccess | [Details](#0230be5b6a99a72281fb408287844784080fb86411)
- [toc.yml](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/toc.yml) | HandedOffSuccess | [Details](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80615)
+ [e2e\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/e2e/TOC.yml) | HandedOffSuccess | [Details](#b12aecafbe61fff90f5d3f42398ed637c5ac779411)
+ [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/283282ceed7d3fc21b4d24152a1104d5e303b42c/e2e/workerroletest.md) | HandedOffSuccess | [Details](#0230be5b6a99a72281fb408287844784080fb86412)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -46,13 +47,13 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/.localization-config) | Ignored | [Details](#3bcb052540e3da9c4744c9492c3312b6ed5187db0)
- [README.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/README.md) | Ignored | [Details](#51d7f3af06d744b8e17e9f191ed52810e9a91cd112)
- [testfirstlevel.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/testfirstlevel.md) | Ignored | [Details](#b2d3f1368106dd65206c998968faeaf57935235513)
- [testfirstlevel2.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/testfirstlevel2.md) | Ignored | [Details](#4e1243bd22c66e76c2ba9eddc1f91394e57f9f8314)
+ [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/.localization-config) | Ignored | [Details](#6bab6d4cf96519112052f1d028dda2a3d901b1a20)
+ [README.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/README.md) | Ignored | [Details](#51d7f3af06d744b8e17e9f191ed52810e9a91cd113)
+ [testfirstlevel.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/testfirstlevel.md) | Ignored | [Details](#b2d3f1368106dd65206c998968faeaf57935235514)
+ [testfirstlevel2.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/testfirstlevel2.md) | Ignored | [Details](#4e1243bd22c66e76c2ba9eddc1f91394e57f9f8315)
 
 ## Item Details
-##### <a name='3bcb052540e3da9c4744c9492c3312b6ed5187db0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/.localization-config)
+##### <a name='6bab6d4cf96519112052f1d028dda2a3d901b1a20'></a> Source: [.localization-config](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -112,7 +113,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
+##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc396'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
@@ -185,7 +186,19 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0230be5b6a99a72281fb408287844784080fb86411'></a> Source: [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/283282ceed7d3fc21b4d24152a1104d5e303b42c/e2e/workerroletest.md)
+##### <a name='b12aecafbe61fff90f5d3f42398ed637c5ac779411'></a> Source: [e2e\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/e2e/TOC.yml)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [b12aecafbe61fff90f5d3f42398ed637c5ac7794.yml](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/10ac3f4700f45bf74587343ae452cb2754a1df51/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/b12aecafbe61fff90f5d3f42398ed637c5ac7794.yml)
+* Handoff Datetime: 2016-03-01 06:46:37
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='0230be5b6a99a72281fb408287844784080fb86412'></a> Source: [e2e\workerroletest.md](https://github.com/OpenLocalizationTest/oltest/blob/283282ceed7d3fc21b4d24152a1104d5e303b42c/e2e/workerroletest.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/f92487d7a5b3e2419b6e7e2e9ce3096b365ff666/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/workerroletest.dc40fb5e16870e53471bb0020c81ccf8829300ba.de-de.xlf)
@@ -197,7 +210,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='51d7f3af06d744b8e17e9f191ed52810e9a91cd112'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/README.md)
+##### <a name='51d7f3af06d744b8e17e9f191ed52810e9a91cd113'></a> Source: [README.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -209,7 +222,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b2d3f1368106dd65206c998968faeaf57935235513'></a> Source: [testfirstlevel.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/testfirstlevel.md)
+##### <a name='b2d3f1368106dd65206c998968faeaf57935235514'></a> Source: [testfirstlevel.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/testfirstlevel.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -221,7 +234,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4e1243bd22c66e76c2ba9eddc1f91394e57f9f8314'></a> Source: [testfirstlevel2.md](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/testfirstlevel2.md)
+##### <a name='4e1243bd22c66e76c2ba9eddc1f91394e57f9f8315'></a> Source: [testfirstlevel2.md](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/testfirstlevel2.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -233,12 +246,13 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80615'></a> Source: [toc.yml](https://github.com/OpenLocalizationTest/oltest/blob/0f08b8a748f182435c12f84ca8d6d56df03b5e67/toc.yml)
-* Status: HandedOffSuccess
+##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80616'></a> Source: [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/428973b76b259a803a23257dc5eda2007a915f43/TOC1.yml)
+* Status: HandedOffFailed
 * Target File: 
-* Handoff File: [c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd806.yml](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/a7d1e02d9d7529a612180b6ead312cf14fa042f9/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd806.yml)
-* Handoff Datetime: 2016-03-01 06:16:00
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Handoff Error: [handoff_transform_failed](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80616handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -252,6 +266,12 @@
 * Error Message: Handoff source file: e2e\test1\test1.md transformed failed.
 * Retriable: False
 * Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: e2e\\test1\\test1.md transformed failed.","internal_error_retriable":false,"exception_message":"Object reference not set to an instance of an object.","exception_type":"System.NullReferenceException","stack_trace":"   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass9_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 327","extended_information":null}
+
+##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80616handoff_transform_failed'></a> Source: [TOC1.yml](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80616)
+* Error Code: handoff_transform_failed
+* Error Message: Handoff source file: toc.yml transformed failed.
+* Retriable: False
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: toc.yml transformed failed.","internal_error_retriable":false,"exception_message":"Could not find file 'C:\\gittest\\master\\OpenLocalizationTest\\oltest\\toc.yml'.","exception_type":"System.IO.FileNotFoundException","stack_trace":"   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass9_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 356","extended_information":null}
 
 
 Generated by OpenLocalization.
