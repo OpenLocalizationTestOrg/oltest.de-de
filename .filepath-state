@@ -1,13 +1,4 @@
 {
-  "6b46804023690e9d49f53b16f91c3ef20b14d51f": [
-    "e2e\\generate-warning&error.md"
-  ],
-  "4d648dc69d20ece48fe1364742cddbef46dcbe72": [
-    "e2e\\generate-warning&error.md"
-  ],
-  "87028e0d2781426cb50ddc9e5bec0a61532ca653": [
-    "e2e\\generate-warning&error.md"
-  ],
   "47609b0422629832c77370a4324229c7153ccdd7": [
     "e2e\\osmond-test-1.md"
   ],
@@ -70,5 +61,11 @@
   ],
   "c842d8537f73ae67d662c3d33c5d93a0b069dada": [
     "e2e\\github.png"
+  ],
+  "6b46804023690e9d49f53b16f91c3ef20b14d51f": [
+    "e2e\\generate-warning and error.md"
+  ],
+  "68a478de3dddc7d1ced415e47c6ebc6e2f3c35f2": [
+    "e2e\\sync.md"
   ]
 }
