@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 2
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 3
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -24,13 +24,11 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTest/oltest/blob/479aadb4feabdf9c27fceae89a42646cc26543e3/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md) | OutofSyncHandedBackSuccess | [Details](#e508d7ffdca862b3f41d5d28544cd7fc28795fb91)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTest/oltest/blob/479aadb4feabdf9c27fceae89a42646cc26543e3/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md) | InSyncHandedBackSuccess | [Details](#e508d7ffdca862b3f41d5d28544cd7fc28795fb91)
  [e2e\ffff30bae099-e70f-4860-adae-fa1bd61ee460.md](https://github.com/OpenLocalizationTest/oltest/blob/479aadb4feabdf9c27fceae89a42646cc26543e3/e2e/ffff30bae099-e70f-4860-adae-fa1bd61ee460.md) | InSyncHandedBackSuccess | [Details](#a80fa9a009198babef9ac73f91d2922e91e9ece12)
  [e2e\ffffff6afb98a2-67bc-4606-b8ea-74d3c903f722.md](https://github.com/OpenLocalizationTest/oltest/blob/479aadb4feabdf9c27fceae89a42646cc26543e3/e2e/ffffff6afb98a2-67bc-4606-b8ea-74d3c903f722.md) | InSyncHandedBackSuccess | [Details](#a80fa9a009198babef9ac73f91d2922e91e9ece13)
 
@@ -53,18 +51,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='e508d7ffdca862b3f41d5d28544cd7fc28795fb91'></a> Source: [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTest/oltest/blob/479aadb4feabdf9c27fceae89a42646cc26543e3/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/6d45280ef55a8bc20b205c3928811e750b97e4d0/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md)
 * Handoff File: [dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/fd62ec7e3aa6c39dd835d511e7f374fa6a85bd85/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/qimu/ht/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.de-de.xlf)
 * Handoff Datetime: 2016-03-04 11:13:01
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/d406e872e6703fec05dade56e8b379c46130df5c/e2e/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.md)
-* Current Handback File: [dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/5e875960f994a13dba1fabb1e85738d2532dea14/ol-handback/OpenLocalizationTestOrg/oltest.de-de/qimu/ht/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.de-de.xlf)
-* Current Handback Datetime: 2016-03-04 11:11:44
+* Handback File: [dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/675b3bf0c0624e3fdd0d35248cd48f61be5718b4/ol-handback/OpenLocalizationTestOrg/oltest.de-de/qimu/ht/dff6ead6-54db-498d-bd8c-d7d62aecbe3e.5dae3c21ad6bbca523b434c1ce15e208ac6e6f06.de-de.xlf)
+* Handback Datetime: 2016-03-04 11:14:23
 * [Back to Top](#report-top)
 
 ##### <a name='a80fa9a009198babef9ac73f91d2922e91e9ece12'></a> Source: [e2e\ffff30bae099-e70f-4860-adae-fa1bd61ee460.md](https://github.com/OpenLocalizationTest/oltest/blob/479aadb4feabdf9c27fceae89a42646cc26543e3/e2e/ffff30bae099-e70f-4860-adae-fa1bd61ee460.md)
