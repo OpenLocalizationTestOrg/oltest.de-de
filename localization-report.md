@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 2
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -36,12 +36,12 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\373bab7a-ff9b-41bc-86fd-f3488ef6e09f.md](https://github.com/OpenLocalizationTest/oltest/blob/b93d6c664216942619d873bff1d775075f5579ae/e2e/373bab7a-ff9b-41bc-86fd-f3488ef6e09f.md) | OutofSyncHandedBackSuccess | [Details](#9a03de62c671dd09c8167d4c31c519a17ba85e403)
- [e2e\f7324243-a653-4e8c-8e9e-f686619523f6.md](https://github.com/OpenLocalizationTest/oltest/blob/020430e357e2f7f8bfbe21ccf16f0398e0b92f66/e2e/f7324243-a653-4e8c-8e9e-f686619523f6.md) | OutofSyncHandedBackSuccess | [Details](#91b639226311cf03da89c53e3d2d19b045c1a46a8)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\4938b188-5036-4e4d-9668-f47d24862ac6.md](https://github.com/OpenLocalizationTest/oltest/blob/0fe490ef8621f44df427f644be1d43fcf77e8f0f/e2e/4938b188-5036-4e4d-9668-f47d24862ac6.md) | InSyncHandedBackSuccess | [Details](#7e9c4037e03c92b8cda75f4f6d60bd9b161715d04)
+ [e2e\f7324243-a653-4e8c-8e9e-f686619523f6.md](https://github.com/OpenLocalizationTest/oltest/blob/020430e357e2f7f8bfbe21ccf16f0398e0b92f66/e2e/f7324243-a653-4e8c-8e9e-f686619523f6.md) | InSyncHandedBackSuccess | [Details](#91b639226311cf03da89c53e3d2d19b045c1a46a8)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -149,18 +149,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='91b639226311cf03da89c53e3d2d19b045c1a46a8'></a> Source: [e2e\f7324243-a653-4e8c-8e9e-f686619523f6.md](https://github.com/OpenLocalizationTest/oltest/blob/020430e357e2f7f8bfbe21ccf16f0398e0b92f66/e2e/f7324243-a653-4e8c-8e9e-f686619523f6.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\f7324243-a653-4e8c-8e9e-f686619523f6.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/c5336ce6d3eb7c436c1cc2a717c2e1e6df18bc41/e2e/f7324243-a653-4e8c-8e9e-f686619523f6.md)
 * Handoff File: [f7324243-a653-4e8c-8e9e-f686619523f6.b0dced80b65e25416406e3268a98ae1b620e7aa4.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e1ae8995a9a504c876e9fc05e2dcf07dbeb7531d/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/xinjiang/ht/f7324243-a653-4e8c-8e9e-f686619523f6.b0dced80b65e25416406e3268a98ae1b620e7aa4.de-de.xlf)
 * Handoff Datetime: 2016-03-10 04:50:49
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\f7324243-a653-4e8c-8e9e-f686619523f6.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/f59274765bb7125575bcb1a0a23f97b674d38997/e2e/f7324243-a653-4e8c-8e9e-f686619523f6.md)
-* Current Handback File: [f7324243-a653-4e8c-8e9e-f686619523f6.b0dced80b65e25416406e3268a98ae1b620e7aa4.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/bca12810f188ebdde43c9e4bde949e091432157c/ol-handback/OpenLocalizationTestOrg/oltest.de-de/xinjiang/ht/f7324243-a653-4e8c-8e9e-f686619523f6.b0dced80b65e25416406e3268a98ae1b620e7aa4.de-de.xlf)
-* Current Handback Datetime: 2016-03-10 04:50:07
+* Handback File: [f7324243-a653-4e8c-8e9e-f686619523f6.b0dced80b65e25416406e3268a98ae1b620e7aa4.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/6678e39b2aa62a89bd7f848aebb6214211dbac7a/ol-handback/OpenLocalizationTestOrg/oltest.de-de/xinjiang/ht/f7324243-a653-4e8c-8e9e-f686619523f6.b0dced80b65e25416406e3268a98ae1b620e7aa4.de-de.xlf)
+* Handback Datetime: 2016-03-10 04:51:39
 * [Back to Top](#report-top)
 
 
