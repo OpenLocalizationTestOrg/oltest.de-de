@@ -1,40 +1,34 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\b0887b31-035f-4d19-be4f-ea01448c9a65.md](https://github.com/OpenLocalizationTest/oltest/blob/03babb39f979a948e3bcc748ca2b33db613ba03c/e2e/b0887b31-035f-4d19-be4f-ea01448c9a65.md) | InSyncHandedBackSuccess | [Details](#8f06130c99c8298437456c47227d39f39bd6ec301)
- [e2e\f3766040-1d41-419f-b0d8-3f001ac12be7.md](https://github.com/OpenLocalizationTest/oltest/blob/ca6cb13106bed6e797b8c11dcf4ba32ca0183236/e2e/f3766040-1d41-419f-b0d8-3f001ac12be7.md) | InSyncHandedBackSuccess | [Details](#de223b00ffe228e48affc9808da4dda0c02881292)
+ [e2e\44f7f548-2886-4d66-9967-dd943e53979c.md](https://github.com/OpenLocalizationTest/oltest/blob/3537d307f3c5d1bd4c69e0a998f1ad2b021d11f0/e2e/44f7f548-2886-4d66-9967-dd943e53979c.md) | HandedBackFailed | [Details](#a2ef2b4ddda834aeec05dc8eaf4c404a836e7d174)
 
 ## Item Details
-##### <a name='8f06130c99c8298437456c47227d39f39bd6ec301'></a> Source: [e2e\b0887b31-035f-4d19-be4f-ea01448c9a65.md](https://github.com/OpenLocalizationTest/oltest/blob/03babb39f979a948e3bcc748ca2b33db613ba03c/e2e/b0887b31-035f-4d19-be4f-ea01448c9a65.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [e2e\b0887b31-035f-4d19-be4f-ea01448c9a65.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/7eb4c447980332e6fe2cd87678597a2fbd5db251/e2e/b0887b31-035f-4d19-be4f-ea01448c9a65.md)
-* Handoff File: [b0887b31-035f-4d19-be4f-ea01448c9a65.a9c98581b6094226999075ab9450f1fd9b5bf04a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/5256ec3d119716ecf340a41a8548305a012c3be0/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/xinjiang/mt/b0887b31-035f-4d19-be4f-ea01448c9a65.a9c98581b6094226999075ab9450f1fd9b5bf04a.de-de.xlf)
-* Handoff Datetime: 2016-03-10 06:30:09
+##### <a name='a2ef2b4ddda834aeec05dc8eaf4c404a836e7d174'></a> Source: [e2e\44f7f548-2886-4d66-9967-dd943e53979c.md](https://github.com/OpenLocalizationTest/oltest/blob/3537d307f3c5d1bd4c69e0a998f1ad2b021d11f0/e2e/44f7f548-2886-4d66-9967-dd943e53979c.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [44f7f548-2886-4d66-9967-dd943e53979c.7b8a93c270b3161b040d6790b5d6bd213c854d61.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/b3ebcaf4c7fd41762bce5195347981559f6d3d92/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/xinjiang/ht/44f7f548-2886-4d66-9967-dd943e53979c.7b8a93c270b3161b040d6790b5d6bd213c854d61.de-de.xlf)
+* Handoff Datetime: 2016-03-10 06:35:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [b0887b31-035f-4d19-be4f-ea01448c9a65.a9c98581b6094226999075ab9450f1fd9b5bf04a.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/550236f9704ca8e7fb502ab3a46bd8c41e400c71/ol-handback/OpenLocalizationTestOrg/oltest.de-de/xinjiang/mt/b0887b31-035f-4d19-be4f-ea01448c9a65.a9c98581b6094226999075ab9450f1fd9b5bf04a.de-de.xlf)
-* Handback Datetime: 2016-03-10 06:31:04
-* [Back to Top](#report-top)
-
-##### <a name='de223b00ffe228e48affc9808da4dda0c02881292'></a> Source: [e2e\f3766040-1d41-419f-b0d8-3f001ac12be7.md](https://github.com/OpenLocalizationTest/oltest/blob/ca6cb13106bed6e797b8c11dcf4ba32ca0183236/e2e/f3766040-1d41-419f-b0d8-3f001ac12be7.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [e2e\f3766040-1d41-419f-b0d8-3f001ac12be7.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/7eb4c447980332e6fe2cd87678597a2fbd5db251/e2e/f3766040-1d41-419f-b0d8-3f001ac12be7.md)
-* Handoff File: [f3766040-1d41-419f-b0d8-3f001ac12be7.4217c70a597931f899bc8e585e85f770817bd0e1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/5256ec3d119716ecf340a41a8548305a012c3be0/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/xinjiang/mt/f3766040-1d41-419f-b0d8-3f001ac12be7.4217c70a597931f899bc8e585e85f770817bd0e1.de-de.xlf)
-* Handoff Datetime: 2016-03-10 06:30:09
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [f3766040-1d41-419f-b0d8-3f001ac12be7.4217c70a597931f899bc8e585e85f770817bd0e1.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/550236f9704ca8e7fb502ab3a46bd8c41e400c71/ol-handback/OpenLocalizationTestOrg/oltest.de-de/xinjiang/mt/f3766040-1d41-419f-b0d8-3f001ac12be7.4217c70a597931f899bc8e585e85f770817bd0e1.de-de.xlf)
-* Handback Datetime: 2016-03-10 06:31:04
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Error: [handback_type_is_mismatch_with_handoff_type](#a2ef2b4ddda834aeec05dc8eaf4c404a836e7d174handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
 
 ## Error Details
+##### <a name='a2ef2b4ddda834aeec05dc8eaf4c404a836e7d174handback_type_is_mismatch_with_handoff_type'></a> Source: [e2e\44f7f548-2886-4d66-9967-dd943e53979c.md](#a2ef2b4ddda834aeec05dc8eaf4c404a836e7d174)
+* Error Code: handback_type_is_mismatch_with_handoff_type
+* Error Message: The handback type mt is not match with handoff type ht.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback type mt is not match with handoff type ht.","internal_error_retriable":false,"exception_message":"The handback type mt is not match with handoff type ht.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
