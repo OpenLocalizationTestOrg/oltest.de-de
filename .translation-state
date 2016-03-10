@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "3b9ecf9d8a84cf7e7631e9a7ca989b52a67b3a2c",
-  "LastTranslatedCommit": "cb2756fe75cbfd8e0fdbb0712ec891a7c6bf8a6a",
+  "LastTranslatedCommit": "8af8a19c8952f33c3c9fc5ca6da83db152f494de",
   "Items": {
     "bb4d49230783adea16cdec38feaccee8cfb971da": {
       "FileHash": "bb4d49230783adea16cdec38feaccee8cfb971da",
@@ -891,9 +891,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-10T05:11:24.1322742Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: p1a3xemx.hgy is different with handoff file name: 51488193-b549-4795-a9fa-df30baf47f66.67b37b7194fca6ec780a2cc35800bcd9f4436545.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: p1a3xemx.hgy is different with handoff file name: 51488193-b549-4795-a9fa-df30baf47f66.67b37b7194fca6ec780a2cc35800bcd9f4436545.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
