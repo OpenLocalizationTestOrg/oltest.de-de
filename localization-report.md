@@ -5,21 +5,17 @@
  -------- | ----- 
  Total Files | 3
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 2
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/109883b34df792143840eef21bd76471f7cdd7ab/e2e/a.md) | HandedOffSuccess | [Details](#527e3cf991ebebcc2ee3ff58384650145fbd30011)
- [e2e\b.md](https://github.com/OpenLocalizationTest/oltest/blob/109883b34df792143840eef21bd76471f7cdd7ab/e2e/b.md) | HandedOffSuccess | [Details](#527e3cf991ebebcc2ee3ff58384650145fbd30012)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -30,6 +26,10 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/109883b34df792143840eef21bd76471f7cdd7ab/e2e/a.md) | InSyncHandedBackSuccess | [Details](#527e3cf991ebebcc2ee3ff58384650145fbd30011)
+ [e2e\b.md](https://github.com/OpenLocalizationTest/oltest/blob/109883b34df792143840eef21bd76471f7cdd7ab/e2e/b.md) | InSyncHandedBackSuccess | [Details](#527e3cf991ebebcc2ee3ff58384650145fbd30012)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -50,27 +50,27 @@
 * [Back to Top](#report-top)
 
 ##### <a name='527e3cf991ebebcc2ee3ff58384650145fbd30011'></a> Source: [e2e\a.md](https://github.com/OpenLocalizationTest/oltest/blob/109883b34df792143840eef21bd76471f7cdd7ab/e2e/a.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/166a3b86f7cba77757cbd36ef7080ffe50e5f3cb/e2e/a.md)
 * Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c2ba04b5d7d92c34aa3c375c298c8d015a6e5525/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/yuwzho/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
 * Handoff Datetime: 2016-03-14 09:12:13
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/7a48ad12272a104cd4d5a09b402543cb692f35de/ol-handback/OpenLocalizationTestOrg/oltest.de-de/yuwzho/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handback Datetime: 2016-03-14 09:13:01
 * [Back to Top](#report-top)
 
 ##### <a name='527e3cf991ebebcc2ee3ff58384650145fbd30012'></a> Source: [e2e\b.md](https://github.com/OpenLocalizationTest/oltest/blob/109883b34df792143840eef21bd76471f7cdd7ab/e2e/b.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/oltest.de-de/blob/166a3b86f7cba77757cbd36ef7080ffe50e5f3cb/e2e/a.md)
 * Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/c2ba04b5d7d92c34aa3c375c298c8d015a6e5525/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/yuwzho/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
 * Handoff Datetime: 2016-03-14 09:12:13
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback/blob/7a48ad12272a104cd4d5a09b402543cb692f35de/ol-handback/OpenLocalizationTestOrg/oltest.de-de/yuwzho/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Handback Datetime: 2016-03-14 09:13:01
 * [Back to Top](#report-top)
 
 
