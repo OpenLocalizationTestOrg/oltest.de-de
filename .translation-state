@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "0b634d902f6a8fe0c149358b727ddad3a23e6837",
+  "LastProcessedCommit": "db8a8c349de24a53e152ec3d3645f3370eb3593d",
   "LastTranslatedCommit": "d1d847af5e4d5f695d4e5628a85913edd40fe98e",
   "Items": {
     "ac5610e14e35343352c9459b3e335b10c5a31637": {
@@ -2509,8 +2509,8 @@
         "e2e\\284d4163-7e09-49d3-b46d-ec46485f8e74.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\yuwzho\\ht\\284d4163-7e09-49d3-b46d-ec46485f8e74.3b122179af5fe3bd344b553a9db129a64cc38e5f.de-de.xlf",
-      "HandoffFileCommit": "b544d3738e1929fdd785d4c544fd3ec61a884de8",
-      "HandoffDateTime": "2016-03-15T03:50:13.4482323Z",
+      "HandoffFileCommit": "e4d869be502fdb0474496e9af33fb3ad37042fb3",
+      "HandoffDateTime": "2016-03-15T03:51:31.6638544Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
