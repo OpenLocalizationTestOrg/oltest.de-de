@@ -1,17 +1,16 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3912)
- [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test-scenario-1.md) | HandedOffSuccess | [Details](#1cd230752f52bb9786821493df48c8a5a2a2f90310)
- [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/TOC1.yml) | HandedOffFailed | [Details](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80624)
+ [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/4a0b53eaa907e7e98d3801009c710fb248c8570c/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | HandedOffFailed | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3912)
+ [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/4a0b53eaa907e7e98d3801009c710fb248c8570c/TOC1.yml) | HandedOffFailed | [Details](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80624)
 
 ## Item Details
-##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3912'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
+##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3912'></a> Source: [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/4a0b53eaa907e7e98d3801009c710fb248c8570c/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
@@ -24,19 +23,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1cd230752f52bb9786821493df48c8a5a2a2f90310'></a> Source: [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test-scenario-1.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/7cd3a7623eaecb3da0d9f769c00520c7aaa2280d/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.de-de.xlf)
-* Handoff Datetime: 2016-03-11 09:11:59
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80624'></a> Source: [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/TOC1.yml)
+##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80624'></a> Source: [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/4a0b53eaa907e7e98d3801009c710fb248c8570c/TOC1.yml)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
