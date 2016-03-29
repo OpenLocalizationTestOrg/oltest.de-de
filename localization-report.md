@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 25
 [ Handoff Failed Files ](#handoff-failed-list)| 2
-[ Handoff Success Files ](#handoff-success-list)| 13
+[ Handoff Success Files ](#handoff-success-list)| 12
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 2
+[ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -29,7 +29,6 @@
  [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools1.md](https://github.com/OpenLocalizationTest/oltest/blob/1e085430b3bcdd905c49a6a43ef0562633b64a05/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools1.md) | HandedOffSuccess | [Details](#fc59fb718925ced7c65137c8a22f4a82ece5abdc13)
  [e2e\test1\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/keep-the-ui-thread-responsive.md) | HandedOffSuccess | [Details](#3ec43baf1d1c8bef03a22ab0b9f609909c78b48f14)
  [e2e\test2\test2.md](https://github.com/OpenLocalizationTest/oltest/blob/e1de723213e9ede9e65e4bcc0b56239180ee4e5a/e2e/test2/test2.md) | HandedOffSuccess | [Details](#faab47eebaf26b80034ed1dfbe89638f6a67b98815)
- [e2e\testimage.md](https://github.com/OpenLocalizationTest/oltest/blob/1238b44887a8ce86bc195ce537703c2b93ad0ba0/e2e/testimage.md) | HandedOffSuccess | [Details](#0dffad9ae5ce24ee11aca10890395c0d707d5ce316)
  [e2e\testmove.md](https://github.com/OpenLocalizationTest/oltest/blob/50098cbdb054814e347a9d0e2d625f1cbf21173b/e2e/testmove.md) | HandedOffSuccess | [Details](#4bbaa6a866490f7f9a4ba831373345d0fe1e721a17)
  [e2e\test-scenario-1.md](https://github.com/OpenLocalizationTest/oltest/blob/cc9ef5ccde2684391171b393d91eac1b13d1d62b/e2e/test-scenario-1.md) | HandedOffSuccess | [Details](#1cd230752f52bb9786821493df48c8a5a2a2f90310)
  [e2e\testworkerrole.md](https://github.com/OpenLocalizationTest/oltest/blob/5561d45a99686aedc6c1caf5cf8ce7c001beacce/e2e/testworkerrole.md) | HandedOffSuccess | [Details](#a048092ef32f7167a3cfd0ab2718722bb0f9007218)
@@ -43,6 +42,7 @@
  ----------- | ------ | ------- 
  [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/38da15b01a1c12c05a6d96e70347b905b7b415c8/e2e/Ping.md) | ArchivedSuccess | [Details](#494f2f4ee04c62e79e80fe6a8519b361486fead47)
  [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/e1de723213e9ede9e65e4bcc0b56239180ee4e5a/e2e/Pong.md) | ArchivedSuccess | [Details](#494f2f4ee04c62e79e80fe6a8519b361486fead48)
+ [e2e\testimage.md](https://github.com/OpenLocalizationTest/oltest/blob/1238b44887a8ce86bc195ce537703c2b93ad0ba0/e2e/testimage.md) | ArchivedSuccess | [Details](#0dffad9ae5ce24ee11aca10890395c0d707d5ce316)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -246,13 +246,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='0dffad9ae5ce24ee11aca10890395c0d707d5ce316'></a> Source: [e2e\testimage.md](https://github.com/OpenLocalizationTest/oltest/blob/1238b44887a8ce86bc195ce537703c2b93ad0ba0/e2e/testimage.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [testimage.e4fe78243ea29c8cf8db612f5ed26f5eefd71ea9.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/1f0467443d421f9d887f6f943f9eb0e1578d8ec5/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/testimage.e4fe78243ea29c8cf8db612f5ed26f5eefd71ea9.de-de.xlf)
 * Handoff Datetime: 2016-03-01 07:36:05
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [testimage.e4fe78243ea29c8cf8db612f5ed26f5eefd71ea9.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/e6eeb7817a32b233431505c7f2f04515fb387149/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/archive/testimage.e4fe78243ea29c8cf8db612f5ed26f5eefd71ea9.de-de.xlf)
+* Archive Datetime: 2016-03-29 06:55:58
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
