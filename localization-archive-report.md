@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Archive Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\test1\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/keep-the-ui-thread-responsive.md) | ArchivedSuccess | [Details](#3ec43baf1d1c8bef03a22ab0b9f609909c78b48f14)
 
 ## Item Details
-##### <a name='3ec43baf1d1c8bef03a22ab0b9f609909c78b48f14'></a> Source: [e2e\test1\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationTest/oltest/blob/65a0554ad32f596f492ad82597f248ae9fb2e074/e2e/test1/keep-the-ui-thread-responsive.md)
-* Status: ArchivedSuccess
-* Target File: 
-* Handoff File: [keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/8e48382b04f9534f9b97bf24e785d8e8cd958789/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/ht-test/keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.de-de.xlf)
-* Handoff Datetime: 2016-03-29 06:17:26
-* Handoff Reason: Include
-* Archive File: [keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/70634945e4cdc5e2cce9fd0dc9ea42c71374c601/ol-handoff/OpenLocalizationTestOrg/oltest.de-de/master/ht-test/archive/keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.de-de.xlf)
-* Archive Datetime: 2016-03-29 07:00:57
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
