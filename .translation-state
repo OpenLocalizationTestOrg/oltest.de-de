@@ -432,9 +432,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\ht-test\\archive\\keep-the-ui-thread-responsive.f82130e9fb356ee4bb01059d48bac41876c11bc7.de-de.xlf",
+      "ArchiveFileCommit": "70634945e4cdc5e2cce9fd0dc9ea42c71374c601",
+      "ArchiveFileDateTime": "2016-03-29T07:00:57.1829869Z",
       "ArchiveException": null
     },
     "0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc39": {
