@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "348a8ec46cdec348b42aa2c8d21aef8f46d9f5ff",
-  "LastTranslatedCommit": "49767303bbf91655e35b8bc1d9c14312f0fc2879",
+  "LastTranslatedCommit": "82559ee9c191b9bc54bb05f625d8808768954fc7",
   "Items": {
     "4566a0d87b9c05529b2e190e638313f832d4fb6f": {
       "FileHash": "4566a0d87b9c05529b2e190e638313f832d4fb6f",
@@ -1452,9 +1452,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-03-29T14:47:02.0163791Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: kbuqxyzg.foo is different with handoff file name: 18edd011-932e-413c-900c-676327eaf4bc.5d60d62340f091dac4075dffa9e1d22bee03ba4e.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: kbuqxyzg.foo is different with handoff file name: 18edd011-932e-413c-900c-676327eaf4bc.5d60d62340f091dac4075dffa9e1d22bee03ba4e.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
