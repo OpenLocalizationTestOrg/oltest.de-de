@@ -1,0 +1,24 @@
+---
+- uid: theme.light
+  name: Light
+- uid: theme.dark
+  name: Dark
+- uid: comments
+  name: Comments
+- uid: edit
+  name: Edit
+- uid: share
+  name: Share
+- uid: twitter
+  name: Twitter
+- uid: facebook
+  name: Facebook
+- uid: slack
+  name: Slack
+- uid: options
+  name: Options
+- uid: author.name
+  name: Author Name
+- uid: in.this.article
+  name: 今天是2016年4月1日
+---
