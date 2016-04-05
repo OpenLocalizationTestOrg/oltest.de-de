@@ -55,9 +55,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.de-de\\master\\archive\\osmond-test-1.f11b754a5dfc36a6a88309daf550f7387cc99a9b.de-de.xlf",
+      "ArchiveFileCommit": "f67224f36bfa9ef9218cec00b3ace7794d3abe06",
+      "ArchiveFileDateTime": "2016-04-05T03:24:10.1338702Z",
       "ArchiveException": null
     },
     "e95ba46a6944d097bac52cb8257a64c4e422238b": {
